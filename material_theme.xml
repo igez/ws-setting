@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.2" />
+    <option name="isMaterialDesign" value="false" />
+    <option name="accentColor" value="F44336" />
+    <option name="useProjectViewDecorators" value="false" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>
