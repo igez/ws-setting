@@ -5,7 +5,6 @@
       <mapping pattern=".sequlizerc" type="PLAIN_TEXT" />
       <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="TreeMap" type="PLAIN_TEXT" />
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping ext="cred" type="PLAIN_TEXT" />
