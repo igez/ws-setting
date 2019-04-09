@@ -1,14 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="fileIcons" value="false" />
-    <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isMaterialDesign" value="false" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
