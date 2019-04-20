@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="64ffda" />
+    <option name="accentColor" value="f44336" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="405becc2:16a1c7db28a:-8000" />
     <option name="version" value="3.9.1" />
