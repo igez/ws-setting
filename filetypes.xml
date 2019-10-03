@@ -13,6 +13,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="base64" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="traineddata" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
